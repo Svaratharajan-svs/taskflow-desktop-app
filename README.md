@@ -257,27 +257,6 @@ Upload a short video showing:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome!  
-Please open an issue or submit a PR.
-
----
-
-## 📝 License
-
-MIT License
-
----
-
-## 📧 Contact
-
-For questions or feedback, feel free to reach out!
-
-- **GitHub:** [your-username](https://github.com/your-username)
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your Name](https://linkedin.com/in/your-profile)
-
 ---
 
 **⭐ If you find this project useful, please consider giving it a star!**
